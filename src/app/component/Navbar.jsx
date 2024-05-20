@@ -46,7 +46,7 @@ const Navbar = () => {
 
             {isOpen && (
                 <div className="md:hidden">
-                    <div className="px-2 pt-2 pb-3 space-y-1 sm:px-3 h-fit">
+                    <div className="px-2 pt-2 pb-3 space-y-1 sm:px-3">
                         <Link href="/" passHref>
                             <span className="text-gray-800 hover:bg-gray-700 hover:text-white block px-3 py-2 rounded-md text-base font-medium cursor-pointer">Home</span>
                         </Link>
@@ -57,10 +57,10 @@ const Navbar = () => {
                             <span className="text-gray-800 hover:bg-gray-700 hover:text-white block px-3 py-2 rounded-md text-base font-medium cursor-pointer">Programs</span>
                         </Link>
                         <Link href="/Testimonials" passHref>
-                            <span className="text-gray-800 hover:bg-gray-700 hover:text-white px-3 py-2 rounded-md text-sm font-medium cursor-pointer">Testimonials</span>
+                            <span className="text-gray-800 hover:bg-gray-700 hover:text-white block px-3 py-2 rounded-md text-base font-medium cursor-pointer">Testimonials</span>
                         </Link>
                         <Link href="/ContactPage" passHref>
-                            <span className="text-gray-800 hover:bg-gray-700 hover:text-white px-3 py-2 rounded-md text-sm font-medium cursor-pointer">Contact us</span>
+                            <span className="text-gray-800 hover:bg-gray-700 hover:text-white block px-3 py-2 rounded-md text-base font-medium cursor-pointer">Contact us</span>
                         </Link>
                     </div>
                 </div>
