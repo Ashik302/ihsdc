@@ -53,7 +53,7 @@ const Homes = () => {
                 <hr />
 
                 <div className="mt-8 text-center">
-                    <h3 className="text-3xl font-semibold mb-4">IHSDC's Ethos and Objectives</h3>
+                    <h3 className="text-3xl font-semibold mb-4">IHSDC&apos;s Ethos and Objectives</h3>
                     <div className=" flex flex-col justify-between md:flex-row">
                         <div className="md:w-1/2 md:mr-4 mb-4 md:mb-0">
                             <div className="text-left">
@@ -89,9 +89,9 @@ const Homes = () => {
                 <hr />
 
                 <div className="mt-8">
-                    <h3 className="text-3xl font-semibold mb-4">IHSDC's Unique Support Programs</h3>
+                    <h3 className="text-3xl font-semibold mb-4">IHSDC&apos;s Unique Support Programs</h3>
                     <p className="text-lg leading-relaxed mb-8">
-                        IHSDC's unique support programs for developing professionals are based on the Happy Curriculum Concept:
+                        IHSDC&apos;s unique support programs for developing professionals are based on the Happy Curriculum Concept:
                     </p>
                     <ul className="list-disc list-inside space-y-4 text-lg leading-relaxed">
                         <li>Basic hotel management practical training program (as per your need or on package).</li>

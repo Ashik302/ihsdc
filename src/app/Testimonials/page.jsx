@@ -51,7 +51,7 @@ const Testimonials = () => {
                 <div>
                     <h2 className="text-2xl font-bold mb-4">Message from the MD and CEO</h2>
                     <p className="text-lg leading-relaxed mb-4">
-                        Welcome to IHSDC! As the MD and CEO, I'm excited to welcome you to our institute. Our mission is simple: to provide top-notch hospitality education that prepares students for success in the industry. With practical training, expert faculty, and a supportive learning environment, we're here to help you achieve your goals. Join us, and let's embark on this journey together!
+                        Welcome to IHSDC! As the MD and CEO, I am excited to welcome you to our institute. Our mission is simple: to provide top-notch hospitality education that prepares students for success in the industry. With practical training, expert faculty, and a supportive learning environment, we are here to help you achieve your goals. Join us, and let&apos;s embark on this journey together!
                     </p>
                     <p className="text-lg font-semibold">Sudip Pokharel </p>
                     <p className="text-md text-gray-700">Managing Director & CEO</p>
