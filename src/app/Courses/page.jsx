@@ -4,7 +4,7 @@ const Courses = () => {
     return (
         <div className="container m-auto py-8 w-full md:w-[85%]">
             <h2 className="text-3xl font-semibold mb-4">Our Courses and Skills</h2>
-            <div className="grid grid-cols-1 md:grid-cols-3 gap-6">
+            <div className="grid grid-cols-1 md:grid-cols-3 gap-6 w-[85%] m-auto">
                 <div className="relative">
                     <div className="hoverneeded bg-cover bg-center h-40 md:h-60 md:min-h-40 rounded-lg shadow-md" style={{ backgroundImage: "url('/b.jpeg')", backgroundColor: "rgb(83, 83, 83)" }}>
                         <div className="absolute inset-0 bg-black bg-opacity-50 rounded-lg flex flex-col justify-start items-start p-4 text-white">
